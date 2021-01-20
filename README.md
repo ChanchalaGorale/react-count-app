@@ -8,3 +8,5 @@
 ## run app
 - npm install
 - npm start
+
+![React Count App](react_count_app.png)
