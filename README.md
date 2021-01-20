@@ -1,4 +1,4 @@
-# react-count-app
+# React-count-app
 
 ##Basic count app
 - +button will increment the value
